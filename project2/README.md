@@ -7,19 +7,20 @@
 * 100 (One Hundred)
 
 ## Goal
-#
+In this project, you will be asked to finish a sequence classification task using deep learning. A trajectory data set with 5 taxi drivers' daily driving trajectories in 6 months will be provide and task is to build a model to predict which driver a trajectory belongs to. This project should be completed in Python 3. Keras, Pytorch and Tensorflow are recommended but you can make your decesion to use other tools like MxNet.
 
 ## Deliverables & Grading
-* PDF Report (70%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
+* PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
 	* proposal
 	* methodology
 	* empirical results and evaluation
 	* conslusion
 	
-* Python Code (30%)
+* Python Code (50%)
 	* Code is required to avoid plagiarism.
 	* The submission should contain a python file named "evaluation.py" to help evluation your model. 
 	* The evluation.py should follow the format in the Submission Guideline section. 
+	* To get full points, the submitted model should achieve accuracy of 0.5 at least.
 
 ## Project Guidelines
 
@@ -32,7 +33,7 @@
 |3	|113.93055	|22.545834	|2016-07-02 0:08:55	|0|
 |4	|114.102051	|22.571966	|2016-07-02 0:09:01	|1|
 |0	|114.12072	|22.543716	|2016-07-02 0:09:01	|0|
-Above is an example of what the data look like. In the data/ folder, each .csv file is trajectories for 5 drivers in the same day. 
+Above is an example of what the data look like. In the data/ folder, each .csv file is trajectories for 5 drivers in the same day. Data can be found at [Google Drive](https://drive.google.com/open?id=1xfyxupoE1C5z7w1Bn5oPRcLgtfon6xeT)
 #### Feature Description 
 * **Plate**: Plate means the taxi's plate. In this project, we change them to 0~5 to keep anonymity. Same plate means same driver, so this is the target label for the classification. 
 * **Longitue**: The longitude of the taxi.
