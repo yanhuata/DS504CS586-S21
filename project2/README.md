@@ -38,7 +38,7 @@ In this project, you will be asked to finish a sequence classification task usin
 Above is an example of what the data look like. In the data/ folder, each .csv file is trajectories for 5 drivers in the same day. Data can be found at [Google Drive](https://drive.google.com/open?id=1xfyxupoE1C5z7w1Bn5oPRcLgtfon6xeT)
 #### Feature Description 
 * **Plate**: Plate means the taxi's plate. In this project, we change them to 0~5 to keep anonymity. Same plate means same driver, so this is the target label for the classification. 
-* ** Longitude **: The longitude of the taxi.
+* **Longitude**: The longitude of the taxi.
 * **Latitude**: The latitude of the taxi.
 * **Time**: Timestamp of the record.
 * **Status**: 1 means taxi is occupied and 0 means a vacant taxi.
