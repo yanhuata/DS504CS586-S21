@@ -27,7 +27,7 @@ In this project, you will be asked to finish a sequence classification task usin
       | 90 | 0.55 |
       | 80 | 0.5 |
       | 70 | 0.45|
-      | 60 | o.4 |
+      | 60 | 0.4 |
 
 ## Project Guidelines
 
