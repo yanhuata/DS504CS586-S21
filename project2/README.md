@@ -22,6 +22,7 @@ In this project, you will be asked to finish a sequence classification task usin
     * The evluation.py should follow the format in the Submission Guideline section. 
     * Evaluation criteria.
       | Percentage | Accuracy |
+      |---|---|
       | 100 | 0.6 |
       | 90 | 0.55 |
       | 80 | 0.5 |
