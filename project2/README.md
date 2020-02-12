@@ -20,7 +20,13 @@ In this project, you will be asked to finish a sequence classification task usin
     * Code is required to avoid plagiarism.
     * The submission should contain a python file named "evaluation.py" to help evaluate your model. 
     * The evluation.py should follow the format in the Submission Guideline section. 
-    * Evaluation criteria will be updated soon.
+    * Evaluation criteria.
+      | Percentage | Accuracy |
+      | 100 | 0.6 |
+      | 90 | 0.55 |
+      | 80 | 0.5 |
+      | 70 | 0.45|
+      | 60 | o.4 |
 
 ## Project Guidelines
 
