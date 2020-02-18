@@ -88,6 +88,7 @@ To help better and fast evaluate your model, please submit a separate python fil
   ```
 
 ## Some Tips
+Setup information could also be found in the [slides](https://docs.google.com/presentation/d/1nFZtev4PxJjbxPxEv06YIQwoIUjd7FEcAtrR5JIutGE/edit?usp=sharing)
 * Anaconda and virtual environment set tup
    * [Download and install anaconda](https://www.anaconda.com/distribution/)
    * [Create a virtual environment with commands](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
