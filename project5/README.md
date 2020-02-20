@@ -1,13 +1,15 @@
-# Project 5 [Group (2-4 people)]
+# Project 5 [Group (4 people)]
 
 #### Important Dates
-* Project Proposal
+* Team Project Starts
+  * **Thursday March 5, 2020**
+* Project Proposal Due
   * **Thursday March 19, 2020 (23:59)**
   * *About 2 pages*
-* Project Progress
+* Project Progress Due
   * **Thursday April 16, 2020 (23:59)**
   * *About 5 pages*
-* Final Project
+* Final Project Due
   * **Thursday April 30, 2020 (23:59)**
   * *About 10 pages.* Please use the [template](https://github.com/yanhuata/DS504CS586-S20/blob/master/project5/acm_submission_template.docx).
   * *Code and trained model*
