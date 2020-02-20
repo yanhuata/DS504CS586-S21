@@ -19,6 +19,23 @@ In this project, you will be asked to choose one online site/service with APIs t
 * Python Code (30%)
 	* Code is required to avoid plagiarism.
 
+* Grading
+  1. Code(30):
+     1. Code for data crawling (20)
+     2. Code for estimation (10)
+
+  2. Report(70):
+     1. Introduction & Proposal (10)
+     2. Methodology (20):
+        a. Method (10)
+        b. Proof of unbiased estimator (5)
+        c. Correct proof (5)
+     3. Evaluation & Results (30):
+        a. Results of estimation (10)
+        b. Validate that the estimator is unbiased using real data (10)
+        c. Explore different settings (like size sample group) (10)
+     4. Conclusion (10)
+
 
 ## Project Guidelines
 

@@ -28,6 +28,29 @@ In this project, you will be asked to finish a sequence classification task usin
       | 80 | 0.5 |
       | 70 | 0.45|
       | 60 | 0.4 |
+* Grading:
+  * Total (100):
+    * Code (50) + Report (50)
+
+  * Code (50):
+    * accuracy >= 0.60: 50
+    * accuracy >= 0.55: 45
+    * accuracy >= 0.50: 40
+    * accuracy >= 0.45: 35
+    * accuracy >= 0.40: 30
+
+  * Report (50):
+    1. Introduction & Proposal (5)
+    2. Methodology (20):
+        a. Data processing (5)
+        b. Feature generation (5)
+        c. Network structure (5)
+        d. Training & validation process (5)
+    3. Evaluation & Results (20):
+        a. Training & validation results (10)
+        b. Performance comparing to your baselines (maybe different network structure) (5)
+        c. Hyperparameter (learning rate, dropout, activation) (5)
+    4. Conclusion (5)
 
 ## Project Guidelines
 
