@@ -9,6 +9,16 @@
 ## Goal
 In this project, you will be asked to finish a sequence classification task using deep learning. A trajectory data set with five taxi drivers' daily driving trajectories in 6 months will be provided, and the task is to build a model to predict which driver a trajectory belongs to. A trajectory to be classified includes all GPS records of a driver in a day. During the test, we will use data from 5 drivers in 5 days, i.e. there will be 25 labels to be evaluated. You can do anything to preprocess the data before input the data to the neural network, such as extracting features, getting sub-trajectory based on the status, and so on. This project should be completed in Python 3. Keras, Pytorch, and Tensorflow are recommended, but you can make your decision to use other tools like MxNet.
 
+## Current Leaderboard
+| rank | Name | Accuracy |
+|---|---|---|
+|1    |Zhao, Zixuan    |0.84    |
+|2    |Sarwar, Atifa   |0.56    |
+|    |    |    |
+|    |    |   |
+|    |    |   |
+|    | |    |
+
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
     * proposal
@@ -128,12 +138,4 @@ Setup information could also be found in the [slides](https://docs.google.com/pr
 * **Keywords**. 
    * If you are wondering where to start, you can try to search "sequence classification", "sequence to sequence" or "sequence embedding" in Google or Github, this might provide you some insights.
    
-## Current Leaderboard
-| rank | Name | Accuracy |
-|---|---|---|
-|1    |Zhao, Zixuan    |0.84    |
-|2    |Sarwar, Atifa   |0.56    |
-|    |    |    |
-|    |    |   |
-|    |    |   |
-|    | |    |
+
