@@ -127,3 +127,13 @@ Setup information could also be found in the [slides](https://docs.google.com/pr
    * [Kaggle](https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu)
 * **Keywords**. 
    * If you are wondering where to start, you can try to search "sequence classification", "sequence to sequence" or "sequence embedding" in Google or Github, this might provide you some insights.
+   
+## Current Leaderboard
+| rank | Name | Accuracy |
+|---|---|---|
+|1    |Zhao, Zixuan    |0.84    |
+|2    |Sarwar, Atifa   |0.56    |
+|    |    |    |
+|    |    |   |
+|    |    |   |
+|    | |    |
