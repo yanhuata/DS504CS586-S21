@@ -11,7 +11,7 @@
 ## Goal
 In this assignment you will be asked to implement a Generative Adversarial Networks (GAN) with [MNIST data set](http://yann.lecun.com/exdb/mnist/). This project will be completed in Python 3 using [Keras](https://keras.io/). 
 
-<img src="https://github.com/yanhuata/DS504CS586-S20/blob/master/pic/goal.png" width="80%">
+<img src="https://github.com/yanhuata/DS504CS586-S20/blob/master/project3/pic/goal.png" width="80%">
 
 
 ## Project Guidelines
