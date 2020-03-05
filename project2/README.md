@@ -12,11 +12,12 @@ In this project, you will be asked to finish a sequence classification task usin
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|1    |Zhao, Zixuan    |0.96   |
-|2    |Catherman, Davis S    |0.92    |
-|3    |Guan, Yiwen     |0.84    |
+|**1**    |**Zhao, Zixuan**    |**0.96**   |
+|**2**    |**Catherman, Davis S**    |**0.92**    |
+|**3**    |**Guan, Yiwen**     |**0.84**    |
 |4    |Hou, Songlin    |0.68    |
 |5    |Charbonneau, Jack   |0.64    |
+|6    |Sarwar, Atifa   |0.56    |
 
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
