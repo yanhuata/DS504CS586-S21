@@ -16,7 +16,7 @@ In this project, you will be asked to finish a sequence classification task usin
 |2    |Zhao, Zixuan    |0.84    |
 |3    |Guan, Yiwen     |0.84    |
 |4    |Hou, Songlin    |0.68    |
-|5    |Sarwar, Atifa   |0.56    |
+|5    |Charbonneau, Jack   |0.64    |
 
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
