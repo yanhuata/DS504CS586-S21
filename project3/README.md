@@ -151,7 +151,7 @@ Please compress all the below files into a zipped file and submit the zip file (
 * Include model creation, model training, plotting code.
 
 #### Generator Model
-* Turn in your best generator saved as a serialized file.
+* Turn in your best generator saved as “generator.json” and the weights of your generator saved as “generator.h5”.
 
 
 ## Grading
