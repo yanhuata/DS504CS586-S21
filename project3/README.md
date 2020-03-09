@@ -145,7 +145,7 @@ Please compress all the below files into a zipped file and submit the zip file (
 #### PDF Report
 * Set of Experiments Performed: Include a section describing the set of experiments that you performed, what structures you experimented with (i.e., number of layers, number of neurons in each layer), what hyperparameters you varied (e.g., number of epochs of training, batch size and any other parameter values, weight initialization schema, activation function), what kind of loss function you used and what kind of optimizer you used. 
 * Special skills: Include the skills which can improve the generation quality. Here are some [tips](https://github.com/soumith/ganhacks) may help.   
-* Visualization: Include 25 (5\*5) final generated images which formatted as the example in Goal and a loss plot of the generator and discriminator during your training. For generated images, you need to generated at least one image for each digit.
+* Visualization: Include 25 (5\*5) final generated images which formatted as the example in Goal and a loss plot of the generator and discriminator during your training. For generated images, you need to generated at least one image for each digit. 
 
 #### Python code
 * Include model creation, model training, plotting code.
@@ -168,7 +168,7 @@ You can get full credits if the scripts can run successfully (i.e., TA will test
 
 #### Model (10%)
 
-You can get full credits if all the generated images can be recognized, otherwise you may loss some points.
+You can get full credits if all the generated images can be recognized, otherwise you may loss some points. Also, the code you submitted should be able to generate all 10 different digits.
 
 ## Bonus (10 points)
 
