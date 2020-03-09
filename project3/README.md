@@ -145,13 +145,13 @@ Please compress all the below files into a zipped file and submit the zip file (
 #### PDF Report
 * Set of Experiments Performed: Include a section describing the set of experiments that you performed, what structures you experimented with (i.e., number of layers, number of neurons in each layer), what hyperparameters you varied (e.g., number of epochs of training, batch size and any other parameter values, weight initialization schema, activation function), what kind of loss function you used and what kind of optimizer you used. 
 * Special skills: Include the skills which can improve the generation quality. Here are some [tips](https://github.com/soumith/ganhacks) may help.   
-* Visualization: Include 25 (5\*5) final generated images which formatted as the example in Goal and a loss plot of the generator and discriminator during your training.  
+* Visualization: Include 25 (5\*5) final generated images which formatted as the example in Goal and a loss plot of the generator and discriminator during your training. For generated images, you need to generated at least one image for each digit.
 
 #### Python code
 * Include model creation, model training, plotting code.
 
 #### Generator Model
-* Turn in your best generator saved as “generator.json” and the weights of your generator saved as “generator.h5”.
+* Turn in your best generator saved as a serialized file.
 
 
 ## Grading
