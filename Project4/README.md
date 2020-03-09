@@ -7,10 +7,10 @@
 * 100 (One Hundred)
 
 ## Goal
-In project 2, you were given a bunch of drivers and their trajectories to build a model to classify which driver a given trajectory belongs to. In this project, we will give you a harder task. In project 2, the training data contain 5 drivers and 6-month trajectories for each driver. In this task, however, the trainning data contain 500 drivers and only 5-day trajectories for each driver. In this task, you should use meta-learning and/or few shot learning to build the classification model. The model for each driver can be a binary classification, which predicts whether a given input trajectory belongs to that driver. 
+In project 2, you were given a bunch of drivers and their trajectories to build a model to classify which driver a given trajectory belongs to. In this project, we will give you a harder task. In project 2, the training data contain 5 drivers and 6-month trajectories for each driver. In this task, however, the trainning data contain 500 drivers and only 5-day trajectories for each driver. In this task, you should use meta-learning and/or few shot learning to build the classification model. The model for each driver can be a binary classification, which takes two trajectories as input and predict whether these two trajectories belongs to the same driver. 
 
 ## Evaluation
-To evaluation your submission, a seperate test dataset will be held. For each driver, the test data will contains 10 different trajectories (1 for that driver and 9 for other drivers). The submitted model should be able to tell whether a input trajectory belongs to that driver. That being said, you could submit 500 models (one for each driver.)
+To evaluation your submission, a seperate test dataset will be held. For each driver, the test data will contains 10 different trajectories. We will randomly generate 20,000 trajectory pairs and use them to evaluate your submitted model. Like project 2, you should submit a evaluation.py file containing how to process the model and how to run prediction. 
 
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
@@ -77,7 +77,7 @@ One day of trajectories will be used to evaluate your submission. And test traje
 To help better and fast evaluate your model, please submit a separate python file named "evaluation.py". This file should contain two functions.
 * **Data Processing**
   ```python
-  def processs_data(traj, driver_id):
+  def processs_data(traj_1, traj_2):
     """
     Input:
         Traj: a list of list, contains one trajectory for one driver 
@@ -87,11 +87,11 @@ To help better and fast evaluate your model, please submit a separate python fil
         Data: any format that can be consumed by your model.
     
     """
-    return data, driver_id
+    return data
   ```
 * **Model Prediction**
     ```python
-    def run(data, driver_id, model):
+    def run(data, model):
         """
         
         Input:
