@@ -14,10 +14,18 @@ In this project, you will be asked to finish a sequence classification task usin
 |---|---|---|
 |**1**    |**Zhao, Zixuan**    |**0.96**   |
 |**1**    |**Catherman, Davis S**    |**0.96**    |
-|**3**    |**Guan, Yiwen**     |**0.84**    |
-|4    |Hou, Songlin    |0.68    |
-|5    |Charbonneau, Jack   |0.64    |
-|6    |Sarwar, Atifa   |0.56    |
+|**3**   |**Robbertz, Andrew**       |**0.92**       |
+|4  |Valente, Richard       |0.88       |
+|5    |Guan, Yiwen     |0.84    |
+|5    |Lu, Senbao|0.84|
+|7     |Neville, Cory    |0.76    |
+|8    |Sarwar, Atifa   |0.76    |
+|9    |Liang, Yueqing  |0.72
+|10    |Hou, Songlin    |0.68    |
+|11   |Charbonneau, Jack   |0.64    |
+|12   |Manyang Sun   |0.64    |
+|13   |Capobianco, Michael   |0.64    |
+
 
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
