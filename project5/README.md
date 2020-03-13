@@ -4,10 +4,10 @@
 * Team Project Starts
   * **Thursday March 5, 2020**
 * Project Proposal Due
-  * **Thursday March 19, 2020 (23:59)**
+  * **Thursday March 26, 2020 (23:59)**
   * *About 2 pages*
 * Project Progress Due
-  * **Thursday April 16, 2020 (23:59)**
+  * **Thursday April 23, 2020 (23:59)**
   * *About 5 pages*
 * Final Project Due
   * **Thursday May 7, 2020 (23:59)**
