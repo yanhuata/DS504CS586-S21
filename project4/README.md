@@ -65,13 +65,13 @@ The data is binary pickled file. The data is stored in a dictionary, in which th
 * **Latitude**: The latitude of the taxi.
 * **Second_since_midnight**: How many seconds has past since midnight.
 * **Status**: 1 means taxi is occupied and 0 means a vacant taxi.
-* * **Time**: Timestamp of the record.
+* **Time**: Timestamp of the record.
 
 #### Problem Definition
 Given a full-day trajectory of a taxi and a driver id, you need to predict whether the the given trajectory belongs to that driver. 
 
 #### Evaluation 
-One day of trajectories will be used to evaluate your submission. And test trajectories are not in the data/ folder. 
+Two days of trajectories will be used to evaluate your submission. And test trajectories are not in the data/ folder. However, we have provided a validation dataset. The validate_set.pkl contains validation data and validate_label.pkl contains labels. Same as usual, you can use pickle.load() function to load the dataset and evaluate your model. 
 
 #### Submission Guideline
 To help better and fast evaluate your model, please submit a separate python file named "evaluation.py". This file should contain two functions.
