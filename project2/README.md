@@ -18,13 +18,14 @@ In this project, you will be asked to finish a sequence classification task usin
 |4  |Valente, Richard       |0.88       |
 |5    |Guan, Yiwen     |0.84    |
 |5    |Lu, Senbao|0.84|
-|7     |Neville, Cory    |0.76    |
-|8    |Sarwar, Atifa   |0.76    |
-|9    |Liang, Yueqing  |0.72
-|10    |Hou, Songlin    |0.68    |
-|11   |Charbonneau, Jack   |0.64    |
-|12   |Manyang Sun   |0.64    |
-|13   |Capobianco, Michael   |0.64    |
+|7     |Ziyao Gao|0.80|
+|8     |Neville, Cory    |0.76    |
+|9    |Sarwar, Atifa   |0.76    |
+|10    |Liang, Yueqing  |0.72
+|11    |Hou, Songlin    |0.68    |
+|12   |Charbonneau, Jack   |0.64    |
+|13   |Manyang Sun   |0.64    |
+|14   |Capobianco, Michael   |0.64    |
 
 
 ## Deliverables & Grading
