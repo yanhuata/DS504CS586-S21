@@ -58,7 +58,7 @@ To evaluation your submission, a seperate test dataset will be held. For each dr
 ## Project Guidelines
 
 #### Dataset Description
-The data is binary pickled file. The data is stored in a dictionary, in which the key is ID of a driver and value is list of his/her trajectories. For each trajectory, the basic element is similar to project 2. Each element in the trajectory is in the following format, [ plate, longitude, latitude, second_since_midnight, status, time ]. Data can be found at [Google Drive](https://drive.google.com/file/d/1aHGJx2KtzjCRlfPYefPaGPl3e5lyJTX-/view?usp=sharing)
+The data is binary pickled file. The data is stored in a dictionary, in which the key is ID of a driver and value is list of his/her trajectories. For each trajectory, the basic element is similar to project 2. Each element in the trajectory is in the following format, [ plate, longitude, latitude, second_since_midnight, status, time ]. Data can be found at [Google Drive](https://drive.google.com/file/d/1aHGJx2KtzjCRlfPYefPaGPl3e5lyJTX-/view?usp=sharing). The training data contain **500** drivers and **5**-day trajectories for each driver.
 #### Feature Description 
 * **Plate**: Plate means the taxi's plate. In this project, we change them to 0~500 to keep anonymity. Same plate means same driver, so this is the target label for the classification. 
 * **Longitude**: The longitude of the taxi.
