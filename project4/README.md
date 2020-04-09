@@ -61,7 +61,8 @@ To evaluation your submission, a seperate test dataset will be held. For each dr
         b. Performance comparing to your baselines (maybe different network structure) (5)
         c. Hyperparameter (learning rate, dropout, activation) (5)
     4. Conclusion (5)
-   * Bonus (5)
+   * Bonus (5):
+   
      5 bonus points for the top 3 on the leader board.
 
 ## Project Guidelines
