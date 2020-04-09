@@ -9,6 +9,13 @@
 ## Goal
 In project 2, you were given a bunch of drivers and their trajectories to build a model to classify which driver a given trajectory belongs to. In this project, we will give you a harder task. In project 2, the training data contain 5 drivers and 6-month trajectories for each driver. In this task, however, the trainning data contain 500 drivers and only 5-day trajectories for each driver. In this task, you should use meta-learning and/or few shot learning to build the classification model. The model for each driver can be a binary classification, which takes two trajectories as input and predict whether these two trajectories belongs to the same driver. 
 
+## Current Leaderboard
+| rank | Name | Accuracy |
+|---|---|---|
+|   |   | |
+|   |    |    |
+|  |      |   |
+
 ## Evaluation
 To evaluation your submission, a seperate test dataset will be held. For each driver, the test data will contains 10 different trajectories. We will randomly generate 20,000 trajectory pairs and use them to evaluate your submitted model. Like project 2, you should submit a evaluation.py file containing how to process the model and how to run prediction. 
 
@@ -54,6 +61,8 @@ To evaluation your submission, a seperate test dataset will be held. For each dr
         b. Performance comparing to your baselines (maybe different network structure) (5)
         c. Hyperparameter (learning rate, dropout, activation) (5)
     4. Conclusion (5)
+   * Bonus (5)
+     5 bonus points for the top 3 on the leader board.
 
 ## Project Guidelines
 
