@@ -1,7 +1,7 @@
 # Individual Project 4
 # Meta-Learning and Few Shot Learning
 #### Due Date
-* Thursday, Apr 23, 2020 (23:59)
+* Thursday, Apr 30, 2020 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
