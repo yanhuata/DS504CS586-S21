@@ -32,6 +32,23 @@
   * An application that analyzes the DBES soccer sensor data set 2013 to learn about different features prevalent in such a real-life game, e.g., what situation lead to a goal, who had the most chances for a goal, what team dominated in the play, etc.
 * Instead, do put your own much cooler project idea here that really rocks ...
 
+## Project Proposals
+
+| Team | Student | Name |
+|---|---|---|
+|Team 1|  Rahul Jackhola, Omkar Kulkarnim, Anirudh Basavraj, Jay Trivedi | Style Transfer using Deep Learning |
+|Team 2|  Cory Neville | Realtime Terrain Generation |
+|Team 3|  Atifa Sarwar, Songlin Hou, Zhiyuan Chen, Zixuan Zhao | Caption Generation|
+|Team 4| Xiaosong Wen, Manyang Sun, Yueqing Liang, Yu Zhai| Bengali Handwritten Character Recognition |
+|Team 5| Michael Capobianco, Jack Chabonneau, Andrew Robbertz, Richard Valente| Recipe Generation using GPT-2 and GAN|
+|Team 6| Senbao Lu, Joshua Bloom, Baoxin Liu, Somesh Patel|Predicting the Coronavirus|
+|Team 7| Tai Zhou, Ziyang Gao, Yiwen Guan|Win Rate Prediction of League of Legends|
+|Team 8| Davis Catherman, Skyler Kim, Ankur Gupta|Predicting COVID-19 Growth|
+|Team 9| Steven McAteer|Predicting The Popularity of a Song|
+
+
+
+
 ## Deliverables
 * STAGE 1: Project Proposal.
 Each group will turn in a typed proposal document (about 2 pages) defining the finalized project. You should have thought about your proposed work, and possibly tried to solve some initial part of it. Make sure to have dug in enough to understand the feasibility of your proposed direction, and/or to have looked at the necessary background knowledge and skills needed to pursue the project. This proposal should explain the proposed work to be done. You should also list relevant environment (tools) you have set up or papers you have read in order to succeed to complete the project. Do provide an expected schedule for your planned completion, including a list of tasks to be undertaken week by week, and the deliverables for the end of the course.<br>
