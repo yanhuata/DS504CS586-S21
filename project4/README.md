@@ -78,10 +78,10 @@ The data is binary pickled file. The data is stored in a dictionary, in which th
 * **Time**: Timestamp of the record.
 
 #### Problem Definition
-Given a full-day trajectory of a taxi and a driver id, you need to predict whether the the given trajectory belongs to that driver. 
+Given two full-day trajectories,  you need to predict whether those two given trajectories belongs to the same driver. 
 
 #### Evaluation 
-Two days of trajectories will be used to evaluate your submission. And test trajectories are not in the data/ folder. However, we have provided a validation dataset. The validate_set.pkl contains validation data and validate_label.pkl contains labels. Same as usual, you can use pickle.load() function to load the dataset and evaluate your model. 
+Two days of trajectories will be used to evaluate your submission. And test trajectories are not in the data/ folder. However, we have provided a validation dataset. The validate_set.pkl contains validation data and validate_label.pkl contains labels. You can construct your own test test based on the trajectories and their corresponding labels. Same as usual, you can use pickle.load() function to load the dataset and evaluate your model. 
 ##### Feature Description of validation data
 * **Longitude**: The longitude of the taxi.
 * **Latitude**: The latitude of the taxi.
