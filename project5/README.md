@@ -55,6 +55,7 @@ only WPI).
 |6:00pm - 6:35pm|Team1|Team4|Team7|
 |6:40pm - 7:15pm|Team2|Team5|Team8|
 |7:20pm - 7:55pm|Team3|Team6|Team9|
+
 **8pm-8:50pm Breakout rooms all closed. Free discussion in the main Zoom meeting room.**
 
 
