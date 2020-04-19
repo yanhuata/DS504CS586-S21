@@ -46,6 +46,17 @@
 |Team 8| Davis Catherman, Skyler Kim, Ankur Gupta|Predicting COVID-19 Growth|
 |Team 9| Steven McAteer|Predicting The Popularity of a Song|
 
+## Final Poster Session
+Final Poster Session will be held in Zoom breakout rooms. Each breakout room will have **3** teams, when one team is presenting, other teams are assigned as audients/judges. Also, the poster session will have invited guests (students and faculty from not
+only WPI).
+# Session Schedule
+| Time | Breakroom 1 | Breakroom 2 | Breakroom 3| 
+|---|---|---|---|
+|6:00pm - 6:35pm|Team1|Team4|Team7|
+|6:40pm - 7:15pm|Team2|Team5|Team8|
+|7:20pm - 7:55pm|Team3|Team6|Team9|
+**8pm-8:50pm Breakout rooms all closed. Free discussion in the main Zoom meeting room.**
+
 
 
 
