@@ -34,17 +34,17 @@
 
 ## Project Proposals
 
-| Team | Student | Name |
-|---|---|---|
-|Team 1|  Rahul Jackhola, Omkar Kulkarnim, Anirudh Basavraj, Jay Trivedi | Style Transfer using Deep Learning |
-|Team 2|  Cory Neville | Realtime Terrain Generation |
-|Team 3|  Atifa Sarwar, Songlin Hou, Zhiyuan Chen, Zixuan Zhao | Caption Generation|
-|Team 4| Xiaosong Wen, Manyang Sun, Yueqing Liang, Yu Zhai| Bengali Handwritten Character Recognition |
-|Team 5| Michael Capobianco, Jack Chabonneau, Andrew Robbertz, Richard Valente| Recipe Generation using GPT-2 and GAN|
-|Team 6| Senbao Lu, Joshua Bloom, Baoxin Liu, Somesh Patel|Predicting the Coronavirus|
-|Team 7| Tai Zhou, Ziyang Gao, Yiwen Guan|Win Rate Prediction of League of Legends|
-|Team 8| Davis Catherman, Skyler Kim, Ankur Gupta|Predicting COVID-19 Growth|
-|Team 9| Steven McAteer|Predicting The Popularity of a Song|
+| Team |  Name |
+|---|---|
+|Team 1|  Style Transfer using Deep Learning |
+|Team 2| Realtime Terrain Generation |
+|Team 3|  Caption Generation|
+|Team 4|  Bengali Handwritten Character Recognition |
+|Team 5| Recipe Generation using GPT-2 and GAN|
+|Team 6| Predicting the Coronavirus|
+|Team 7| Win Rate Prediction of League of Legends|
+|Team 8| Predicting COVID-19 Growth|
+|Team 9| Predicting The Popularity of a Song|
 
 ## Final Poster Session
 Final Poster Session will be held in Zoom breakout rooms. Each breakout room will have **3** teams, when one team is presenting, other teams are assigned as audients/judges. Also, the poster session will have invited guests (students and faculty from not
