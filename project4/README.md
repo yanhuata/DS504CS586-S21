@@ -12,9 +12,19 @@ In project 2, you were given a bunch of drivers and their trajectories to build 
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|1   |Zhao, Zixuan   |0.88 |
-|2   |Charbonneau, Jack    |0.811    |
-|3  |Sun, Manyang      |0.806   |
+**|1   |Charbonneau, Jack    |0.887   |**
+**|2   |Zhao, Zixuan   |0.88 |**
+**|3|Guan, Yiwen |0.874|**
+|4|Robbertz, Andrew|0.87|
+|5|Zhai, Yu|0.826|
+|6   |Charbonneau, Jack    |0.811    |
+|7  |Sun, Manyang      |0.806   |
+|8|Sarwar,Atifa |0.778|
+|9 |Kim, Skyler|0.738|
+|10| Neville, Cory |0.71|
+|11| Liang, Yueqing |0.65|
+|12 |Chen, Zhiyuan |0.65|
+
 
 ## Evaluation
 To evaluation your submission, a seperate test dataset will be held. For each driver, the test data will contains 10 different trajectories. We will randomly generate 20,000 trajectory pairs and use them to evaluate your submitted model. Like project 2, you should submit a evaluation.py file containing how to process the model and how to run prediction. 
