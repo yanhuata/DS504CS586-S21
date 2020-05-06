@@ -25,7 +25,8 @@ Final Poster Session will be held in Zoom breakout rooms. Each breakout room wil
 only WPI).
 ## Zoom Link
 <span style="font-size:20em;">Zoom meeting</span>
-
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+<span style="color:red">cardinals</span>.
 https://wpi.zoom.us/j/2278644857
 
 ## Session Schedule
