@@ -25,7 +25,7 @@ Final Poster Session will be held in Zoom breakout rooms. Each breakout room wil
 only WPI).
 ## Zoom Link
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) https://wpi.zoom.us/j/2278644857
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ***https://wpi.zoom.us/j/2278644857***
 
 
 ## Session Schedule
