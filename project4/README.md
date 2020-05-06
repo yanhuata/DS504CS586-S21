@@ -16,14 +16,20 @@ In project 2, you were given a bunch of drivers and their trajectories to build 
 |**2**   |**Zhao, Zixuan**   |**0.880** |
 |**3**|**Guan, Yiwen** |**0.874**|
 |4|Robbertz, Andrew|0.870|
-|5|Zhai, Yu|0.826|
-|6   |Charbonneau, Jack    |0.811    |
-|7  |Sun, Manyang      |0.806   |
-|8|Sarwar,Atifa |0.778|
-|9 |Kim, Skyler|0.738|
-|10| Neville, Cory |0.71|
-|11| Liang, Yueqing |0.65|
-|12 |Chen, Zhiyuan |0.65|
+|5|Catherman, Davis |0.84|
+|6|Zhou, Tai|0.83|
+|7|Zhai, Yu|0.826|
+|8|Liu, Baoxin| 0.82|
+|9|Hou, Songlin|0.82|
+|10   |Charbonneau, Jack    |0.811    |
+|11  |Sun, Manyang      |0.806   |
+|12|Sarwar,Atifa |0.778|
+|13|Capobianco, Michael|0.745|
+|14 |Kim, Skyler|0.738|
+|15| Neville, Cory |0.71|
+|16|Valente, Richard|0.651|
+|17| Liang, Yueqing |0.65|
+|18|Chen, Zhiyuan |0.65|
 
 
 ## Evaluation
