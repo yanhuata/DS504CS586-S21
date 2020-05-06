@@ -20,7 +20,7 @@
 * 100 (One Hundred)
 
 
-## Final Poster Session
+# Final Poster Session
 Final Poster Session will be held in Zoom breakout rooms. Each breakout room will have **3** teams, when one team is presenting, other teams are assigned as audients/judges. Also, the poster session will have invited guests (students and faculty from not
 only WPI).
 ## Zoom Link
