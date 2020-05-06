@@ -25,7 +25,7 @@ Final Poster Session will be held in Zoom breakout rooms. Each breakout room wil
 only WPI).
 # Zoom Link
 
-<span style="font-size:4em;">https://wpi.zoom.us/j/2278644857</span>
+<span style="font-size:20em;">https://wpi.zoom.us/j/2278644857</span>
 
 # Session Schedule
 **Date** : May 7, 2020
