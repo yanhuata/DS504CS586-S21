@@ -24,10 +24,9 @@
 Final Poster Session will be held in Zoom breakout rooms. Each breakout room will have **3** teams, when one team is presenting, other teams are assigned as audients/judges. Also, the poster session will have invited guests (students and faculty from not
 only WPI).
 ## Zoom Link
-<span style="font-size:20em;">Zoom meeting</span>
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-<span style="color:red">cardinals</span>.
-https://wpi.zoom.us/j/2278644857
+
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `https://wpi.zoom.us/j/2278644857`
+
 
 ## Session Schedule
 **Date** : May 7, 2020
