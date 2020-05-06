@@ -23,11 +23,10 @@
 ## Final Poster Session
 Final Poster Session will be held in Zoom breakout rooms. Each breakout room will have **3** teams, when one team is presenting, other teams are assigned as audients/judges. Also, the poster session will have invited guests (students and faculty from not
 only WPI).
-# Zoom Link
+## Zoom Link
+<span style="font-size:20em;">[Zoom meeting]https://wpi.zoom.us/j/2278644857</span>
 
-<span style="font-size:20em;">https://wpi.zoom.us/j/2278644857</span>
-
-# Session Schedule
+## Session Schedule
 **Date** : May 7, 2020
 | Time | Breakroom 1 | Breakroom 2 | Breakroom 3| 
 |---|---|---|---|
