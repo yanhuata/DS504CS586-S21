@@ -25,7 +25,7 @@ Final Poster Session will be held in Zoom breakout rooms. Each breakout room wil
 only WPI).
 ## Zoom Link
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ***https://wpi.zoom.us/j/2278644857***
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ***https://wpi.zoom.us/my/ds504***
 
 
 ## Session Schedule
@@ -38,7 +38,24 @@ only WPI).
 
 **8pm-8:50pm Free discussion in the main meeting room; leave any time**
 
-## Project Ideas
+## Details
+After joining the main session, to start: 
+
+1. Change your name as follows 
+
+Guests: Guest-School-Name, e.g., Guest-WPI-John
+Class students: Team-ID-Name, e.g., Team-1-John
+TAs: TA-Name
+
+2. Send a message to TA-Huimin to request to join a poster breakout room.
+
+To switch to a new breakout room:
+
+1. Leave a breakout room to the main session, 
+
+2. Send a request to TA-Huimin in the main session
+
+# Project Ideas
 * You can participate some competitions
   * [NeurIPS 2019 competition: Traffic4cast--Traffic Map Movie Forecasting](https://www.iarai.ac.at/traffic4cast/)
   * [KDD CUP 2018 of fresh air](https://www.kdd.org/kdd2018/kdd-cup)
