@@ -39,21 +39,21 @@ only WPI).
 **8pm-8:50pm Free discussion in the main meeting room; leave any time**
 
 ## Details
-After joining the main session, to start: 
+#### After joining the main session, to start: 
 
 1. Change your name as follows 
+   - Guests: Guest-School-Name, e.g., Guest-WPI-John
+   - Class students: Team-ID-Name, e.g., Team-1-John
+   - TAs: TA-Name
 
-Guests: Guest-School-Name, e.g., Guest-WPI-John
-Class students: Team-ID-Name, e.g., Team-1-John
-TAs: TA-Name
+2. Send a message to ***TA-Huimin*** to request to join a poster breakout room.
 
-2. Send a message to TA-Huimin to request to join a poster breakout room.
-
-To switch to a new breakout room:
+#### To switch to a new breakout room:
 
 1. Leave a breakout room to the main session, 
+2. Send a request to ***TA-Huimin*** in the main session
 
-2. Send a request to TA-Huimin in the main session
+***Feedback here: https://forms.gle/cwafkiwPavqwDR6R6***
 
 # Project Ideas
 * You can participate some competitions
