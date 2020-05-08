@@ -23,13 +23,14 @@ In project 2, you were given a bunch of drivers and their trajectories to build 
 |9|Hou, Songlin|0.82|
 |10   |Charbonneau, Jack    |0.811    |
 |11  |Sun, Manyang      |0.806   |
-|12|Sarwar,Atifa |0.778|
-|13|Capobianco, Michael|0.745|
-|14 |Kim, Skyler|0.738|
-|15| Neville, Cory |0.71|
-|16|Valente, Richard|0.651|
-|17| Liang, Yueqing |0.65|
-|18|Chen, Zhiyuan |0.65|
+|11  |Gupta, Ankur     |0.806   |
+|13|Sarwar,Atifa |0.778|
+|14|Capobianco, Michael|0.745|
+|15 |Kim, Skyler|0.738|
+|16| Neville, Cory |0.71|
+|17|Valente, Richard|0.651|
+|18| Liang, Yueqing |0.65|
+|19|Chen, Zhiyuan |0.65|
 
 
 ## Evaluation
