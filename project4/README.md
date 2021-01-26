@@ -12,25 +12,11 @@ In project 2, you were given a bunch of drivers and their trajectories to build 
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|**1**   |**Charbonneau, Jack**    |**0.887**   |
-|**2**   |**Zhao, Zixuan**   |**0.880** |
-|**3**|**Guan, Yiwen** |**0.874**|
-|4|Robbertz, Andrew|0.870|
-|5|Catherman, Davis |0.84|
-|6|Zhou, Tai|0.83|
-|7|Zhai, Yu|0.826|
-|8|Liu, Baoxin| 0.82|
-|9|Hou, Songlin|0.82|
-|10   |Charbonneau, Jack    |0.811    |
-|11  |Sun, Manyang      |0.806   |
-|11  |Gupta, Ankur     |0.806   |
-|13|Sarwar,Atifa |0.778|
-|14|Capobianco, Michael|0.745|
-|15 |Kim, Skyler|0.738|
-|16| Neville, Cory |0.71|
-|17|Valente, Richard|0.651|
-|18| Liang, Yueqing |0.65|
-|19|Chen, Zhiyuan |0.65|
+|**1**   |   |   |
+|**2**   |   | |
+|**3**|  | |
+|4| | |
+
 
 
 ## Evaluation
