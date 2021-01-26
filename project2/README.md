@@ -1,7 +1,7 @@
 # Individual Project 2
 # Classification with Deep Learning
 #### Due Date
-* Thursday, Mar 5th, 2020 (23:59)
+* TBD
 
 #### Total Points
 * 100 (One Hundred)
