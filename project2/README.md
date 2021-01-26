@@ -12,20 +12,11 @@ In this project, you will be asked to finish a sequence classification task usin
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|**1**    |**Zhao, Zixuan**    |**0.96**   |
-|**1**    |**Catherman, Davis S**    |**0.96**    |
-|**3**   |**Robbertz, Andrew**       |**0.92**       |
-|4  |Valente, Richard       |0.88       |
-|5    |Guan, Yiwen     |0.84    |
-|5    |Lu, Senbao|0.84|
-|7     |Ziyao Gao|0.80|
-|8     |Neville, Cory    |0.76    |
-|9    |Sarwar, Atifa   |0.76    |
-|10    |Liang, Yueqing  |0.72
-|11    |Hou, Songlin    |0.68    |
-|12   |Charbonneau, Jack   |0.64    |
-|13   |Manyang Sun   |0.64    |
-|14   |Capobianco, Michael   |0.64    |
+|**1**    |   |  |
+|**1**    |   |    |
+|**3**   |    |     |
+|4  |    |      |
+
 
 
 ## Deliverables & Grading
