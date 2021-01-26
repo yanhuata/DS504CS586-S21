@@ -2,15 +2,15 @@
 
 #### Important Dates
 * Team Project Starts
-  * **Thursday March 5, 2020**
+  * **TBD**
 * Project Proposal Due
-  * **Thursday March 26, 2020 (23:59)**
+  * **TBD**
   * *About 2 pages*
 * Project Progress Due
-  * **Thursday April 23, 2020 (23:59)**
+  * **TBD**
   * *About 5 pages*
 * Final Project Due
-  * **Thursday May 7, 2020 (23:59)**
+  * **TBD**
   * *About 10 pages.* Please use the [template](https://github.com/yanhuata/DS504CS586-S20/blob/master/project5/acm_submission_template.docx).
   * *Code and trained model*
   * *Demo (Optional)*
@@ -29,7 +29,7 @@ only WPI).
 
 
 ## Session Schedule
-**Date** : May 7, 2020
+**Date** : TBD
 | Time | Breakroom 1 | Breakroom 2 | Breakroom 3| 
 |---|---|---|---|
 |6:00pm - 6:35pm|Team1|Team4|Team7|
@@ -72,15 +72,6 @@ only WPI).
 
 | Team |  Name |
 |---|---|
-|Team 1|  Style Transfer using Deep Learning |
-|Team 2| Realtime Terrain Generation |
-|Team 3|  Caption Generation|
-|Team 4|  Bengali Handwritten Character Recognition |
-|Team 5| Recipe Generation using GPT-2 and GAN|
-|Team 6| Predicting the Coronavirus|
-|Team 7| Win Rate Prediction of League of Legends|
-|Team 8| Predicting COVID-19 Growth|
-|Team 9| Predicting The Popularity of a Song|
 
 
 
