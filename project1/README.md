@@ -7,7 +7,7 @@
 * 100 (One Hundred)
 
 ## Goal
-In this project, you will be asked to choose one online site/service with APIs to download data and analyze the collected data. One possible idea is to sample GitHub account IDs and estimate the total number of valid users in Github. In GitHub, user's ID is increasing from 1, but the ID will not be avaiable in GitHub API if the user deletes his/her account. In particular, 5% of the users' ID from 1 to 1000 were missing. Since the limits of GitHub API, you cannot download all the IDs and count the number of missing IDs, you need to sample some IDs and estimate the number of valid users with an unbiased estimator.  You could use other APIs and define your problem as well, such as Yelp, YouTube, Twitter, etc. This project will be completed in Python 3. 
+In this project, you will be asked to choose one online site/service with APIs to download data and analyze the collected data. One possible idea is to sample GitHub account IDs and estimate the total number of valid users in Github. In GitHub, user's ID is increasing from 1, but the ID will not be avaiable in GitHub API if the user deletes his/her account. In particular, 5% of the users' ID from 1 to 1000 were missing. Since the limits of GitHub API, you cannot download all the IDs and count the number of missing IDs, you need to sample some IDs and estimate the number of valid users with an unbiased estimator. This project will be completed in Python 3. 
 
 ## Deliverables & Grading
 * PDF Report (70%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
@@ -89,8 +89,3 @@ data = response.json()
      'type': 'User',
      'site_admin': False}
 ```
-
-## Links of other APIs
-* [Twitter](https://developer.twitter.com/en/docs)
-* [YouTube](https://developers.google.com/youtube/v3)
-* [Yelp](https://www.yelp.com/developers)
