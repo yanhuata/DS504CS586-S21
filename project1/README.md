@@ -1,7 +1,7 @@
 # Individual Project 1
 # Estimating Online Site Statistics
 #### Due Date
-* TBD
+* Thursday Feb 25, 2020 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
