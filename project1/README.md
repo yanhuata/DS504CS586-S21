@@ -88,4 +88,14 @@ data = response.json()
      'received_events_url': 'https://api.github.com/users/mojombo/received_events',
      'type': 'User',
      'site_admin': False}
+     
+#sample NUM ids since UID    
+def sample(uid,num):
+    ...
+    return sample_data
+    
+#use downloaded data to build estimator  
+def estimate(sample_data):
+    ...
+    return estimation
 ```
