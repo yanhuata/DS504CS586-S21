@@ -27,9 +27,9 @@ In this project, you will be asked to choose one online site/service with APIs t
   2. Report(70):
      1. Introduction & Proposal (10)
      2. Methodology (20):
-        a. Method (10)
-        b. Proof of unbiased estimator (5)
-        c. Correct proof (5)
+        a. sampling/estimation method (10) 
+ 	b. Proof of unbiasedness(5) 
+ 	c. Correctness of proof (5)
      3. Evaluation & Results (30):
      	a. Results from a validation set (15)
 	b. Results from the entire id space (15)
