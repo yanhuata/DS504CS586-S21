@@ -31,9 +31,8 @@ In this project, you will be asked to choose one online site/service with APIs t
         b. Proof of unbiased estimator (5)
         c. Correct proof (5)
      3. Evaluation & Results (30):
-        a. Results of estimation (10)
-        b. Validate that the estimator is unbiased using real data (10)
-        c. Explore different settings (like size sample group) (10)
+     	a. Results from a validation set (15)
+	b. Results from the entire id space (15) 
      4. Conclusion (10)
 
 
