@@ -23,12 +23,11 @@ In this project, you will be asked to choose one online site/service with APIs t
   1. Code(30):
      1. Code for data crawling (20)
      2. Code for estimation (10)
-
   2. Report(70):
      1. Introduction & Proposal (10)
      2. Methodology (20):
-        1. Sampling/estimation method (10) 
- 	2. Proof of unbiasedness(5) 
+     	1. Sampling/estimation method (10) 
+	2. Proof of unbiasedness(5) 
  	3. Correctness of proof (5)
      3. Evaluation & Results (30):
      	1. Results from a validation set (15)
