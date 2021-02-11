@@ -32,6 +32,7 @@ In this project, you will be asked to choose one online site/service with APIs t
         c. Correct proof (5)
      3. Evaluation & Results (30):
      	a. Results from a validation set (15)
+	b. Results from a validation set (15)
      4. Conclusion (10)
 
 
