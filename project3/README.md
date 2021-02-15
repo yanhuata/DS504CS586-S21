@@ -26,6 +26,99 @@ MNIST is a dataset composed of handwrite numbers and their labels. Each MNIST im
 * [Create virtual environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 * Install packages (e.g. pip install keras)
 
+#### Building and Compiling Generator and Discriminator
+
+In Keras, Models are instantiations of the class Sequential. You can try different layers, such as “Conv2D”, different activation functions, such as “tanh”, “leakyRelu”. To compile the model, different optimizer, such as stochastic gradient descent and different loss function are also allowed. The following is the sample code of how to build and compile the models.
+
+
+```python
+# Optimizer
+adam = Adam(lr=0.0002, beta_1=0.5)
+
+# Generator
+g = create_generator()(self-defined function)
+
+
+# Discrinimator
+d = create_discriminator()(self-defined function)
+
+# GAN
+d.trainable = False
+inputs = Input(shape=(z_dim, ))
+hidden = g(inputs)
+output = d(hidden)
+gan = Model(inputs, output)
+gan.compile(loss='binary_crossentropy', optimizer=adam, metrics=['accuracy'])
+```
+
+#### Training GAN
+
+You have the option of changing how many epochs to train your model for and how large your batch size is. The following is the sample code of how to train GAN. You can add seld-defined parameters such as #epoch, learning rate scheduler to the train function.
+
+
+
+```python
+# Training
+def train():
+    for _ in range(batchCount):  
+	
+        # Create a batch by drawing random index numbers from the training set
+       
+        # Create noise vectors for the generator
+        
+        
+        # Generate the images from the noise
+
+        # Create labels
+
+        # Train discriminator on generated images
+
+        # Train generator
+
+```
+
+#### Saving Generator
+
+Please use the following code to save the model and weights of your generator.
+
+
+
+```python
+# serialize model to JSON
+model_json = g.to_json()
+with open("generator.json", "w") as json_file:
+    json_file.write(model_json)
+# serialize weights to HDF5
+g.save_weights("generator.h5")
+```
+
+#### Plotting
+
+Please use the following code to plot the generated images. As for the loss plot of your generator and discriminator during the training, you can plot with your own style. 
+
+
+```python
+# Generate images
+np.random.seed(504)
+h = w = 28
+num_gen = 25
+
+z = np.random.normal(size=[num_gen, z_dim])
+generated_images = g.predict(z)
+
+# plot of generation
+n = np.sqrt(num_gen).astype(np.int32)
+I_generated = np.empty((h*n, w*n))
+for i in range(n):
+    for j in range(n):
+        I_generated[i*h:(i+1)*h, j*w:(j+1)*w] = generated_images[i*n+j, :].reshape(28, 28)
+
+plt.figure(figsize=(4, 4))
+plt.axis("off")
+plt.imshow(I_generated, cmap='gray')
+plt.show()
+```
+
 ## Deliverables
 
 Please compress all the below files into a zipped file and submit the zip file (firstName_lastName_GAN.zip) to Canvas. 
