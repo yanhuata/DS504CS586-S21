@@ -35,11 +35,11 @@ In Keras, Models are instantiations of the class Sequential. You can try differe
 # Optimizer
 adam = Adam(lr=0.0002, beta_1=0.5)
 
-# Generator
+# To create generator, you can define a function which returns a Sequential object.
 g = create_generator()(self-defined function)
 
 
-# Discrinimator
+# To create discriminator, you can define a function which returns a Sequential object.
 d = create_discriminator()(self-defined function)
 
 # GAN
