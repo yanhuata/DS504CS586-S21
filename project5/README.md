@@ -1,16 +1,16 @@
-# Project 5 [Group (4 people)]
+# Project 5 [Group (3 people)]
 
 #### Important Dates
 * Team Project Starts
-  * **TBD**
+  * Thursday Mar 11, 2021 
 * Project Proposal Due
-  * **TBD**
+  * Thursday Mar 25, 2021 (23:59)
   * *About 2 pages*
 * Project Progress Due
-  * **TBD**
+  * Thursday Apr 22, 2020 (23:59)
   * *About 5 pages*
 * Final Project Due
-  * **TBD**
+  * Thursday May 06, 2020 (23:59)
   * *About 10 pages.* Please use the [template](https://github.com/yanhuata/DS504CS586-S20/blob/master/project5/acm_submission_template.docx).
   * *Code and trained model*
   * *Demo (Optional)*
@@ -20,40 +20,6 @@
 * 100 (One Hundred)
 
 
-# Final Poster Session
-Final Poster Session will be held in Zoom breakout rooms. Each breakout room will have **3** teams, when one team is presenting, other teams are assigned as audients/judges. Also, the poster session will have invited guests (students and faculty from not
-only WPI).
-## Zoom Link
-
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ***https://wpi.zoom.us/my/ds504***
-
-
-## Session Schedule
-**Date** : TBD
-| Time | Breakroom 1 | Breakroom 2 | Breakroom 3| 
-|---|---|---|---|
-|6:00pm - 6:35pm|Team1|Team4|Team7|
-|6:40pm - 7:15pm|Team2|Team5|Team8|
-|7:20pm - 7:55pm|Team3|Team6|Team9|
-
-**8pm-8:50pm Free discussion in the main meeting room; leave any time**
-
-## Details
-#### After joining the main session, to start: 
-
-1. Change your name as follows 
-   - Guests: Guest-School-Name, e.g., Guest-WPI-John
-   - Class students: Team-ID-Name, e.g., Team-1-John
-   - TAs: TA-Name
-
-2. Send a message to ***TA-*** to request to join a poster breakout room.
-
-#### To switch to a new breakout room:
-
-1. Leave a breakout room to the main session, 
-2. Send a request to ***TA-*** in the main session
-
-***Feedback here: https://forms.gle/cwafkiwPavqwDR6R6***
 
 # Project Ideas
 * You can participate some competitions
