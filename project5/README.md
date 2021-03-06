@@ -23,9 +23,9 @@
 
 # Project Ideas
 * You can participate some competitions
-  * [NeurIPS 2019 competition: Traffic4cast--Traffic Map Movie Forecasting](https://www.iarai.ac.at/traffic4cast/)
-  * [KDD CUP 2018 of fresh air](https://www.kdd.org/kdd2018/kdd-cup)
-  * [Kaggle Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19)
+  * [NeurIPS 2020 Competition Track](https://neurips.cc/Conferences/2020/CompetitionTrack)
+  * [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+  * [HuBMAP - Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation)
   * [Kaggle](https://www.kaggle.com/): An online machine learning competition website.
 * You may consider some ideas like,
   * A traffic pattern learner that would apply data mining techniques to both traffic archives (taxi dataset) and online traffic patterns (California traffic) to learn about typical routes of taxis, congestions in the form of clusters, open parking spaces, outliers in traffic, or to recommend routes.
