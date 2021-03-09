@@ -13,7 +13,7 @@ In this project, you will be asked to finish a sequence classification task usin
 | rank | Name | Accuracy |
 |---|---|---|
 |**1**    | DiCicco, Mason  | 0.88 |
-|**2**    | Oscar A. Garcia  |  0.76  |
+|**2**    | Garcia Fernandez, Oscar A  |  0.76  |
 |**3**   | Jindal, Amisha |  0.56   |
 |4  |    |      |
 
