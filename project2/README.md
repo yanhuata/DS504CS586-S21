@@ -14,8 +14,8 @@ In this project, you will be asked to finish a sequence classification task usin
 |---|---|---|
 |**1**    | DiCicco, Mason  | 1.00 |
 |**2**    | Garcia Fernandez, Oscar A  |  0.76  |
-|**3**   | Jindal, Amisha |  0.56   |
-|4  |    |      |
+|**3**   | Jingyan Wang |  0.76   |
+|4  |  Jindal, Amisha  |   0.56   |
 
 
 
