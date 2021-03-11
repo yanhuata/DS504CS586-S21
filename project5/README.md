@@ -10,7 +10,7 @@
   * Thursday Apr 22, 2020 (23:59)
   * *About 5 pages*
 * Final Project Due
-  * Thursday May 06, 2020 (23:59)
+  * Tuesday May 04, 2020 (23:59)
   * *About 10 pages.* Please use the [template](https://github.com/yanhuata/DS504CS586-S20/blob/master/project5/acm_submission_template.docx).
   * *Code and trained model*
   * *Demo (Optional)*
