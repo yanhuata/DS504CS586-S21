@@ -16,6 +16,7 @@ In this project, you will be asked to finish a sequence classification task usin
 |**2**    | Garcia Fernandez, Oscar A  |  0.76  |
 |**3**   | Jingyan Wang |  0.76   |
 |4 | Ammartayakun, Aukkawut| 0.64|
+|4 | Lin, Ziwei | 0.64|
 |5  |  Jindal, Amisha  |   0.56   |
 
 
