@@ -17,7 +17,8 @@ In this project, you will be asked to finish a sequence classification task usin
 |**3**   | Jingyan Wang |  0.76   |
 |4 | Ammartayakun, Aukkawut| 0.64|
 |4 | Lin, Ziwei | 0.64|
-|5  |  Jindal, Amisha  |   0.56   |
+|6  |  Jindal, Amisha  |   0.56   |
+|6  |  Gilmore, Brent |   0.56   |
 
 
 
