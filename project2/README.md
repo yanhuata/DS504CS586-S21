@@ -16,9 +16,10 @@ In this project, you will be asked to finish a sequence classification task usin
 |**2**  |  Gilmore, Brent |   0.80   |
 |**3**    | Garcia Fernandez, Oscar A  |  0.76  |
 |**3**   | Jingyan Wang |  0.76   |
-|5  |  Jindal, Amisha  |   0.68  |
-|6 | Ammartayakun, Aukkawut| 0.64|
-|6 | Lin, Ziwei | 0.64|
+|5 | Tang, Bryson | 0.72|
+|6  |  Jindal, Amisha  |   0.68  |
+|7 | Ammartayakun, Aukkawut| 0.64|
+|7 | Lin, Ziwei | 0.64|
 
 
 
