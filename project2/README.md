@@ -19,6 +19,7 @@ In this project, you will be asked to finish a sequence classification task usin
 |5 | Ammartayakun, Aukkawut| 0.64|
 |5 | Lin, Ziwei | 0.64|
 |7  |  Jindal, Amisha  |   0.56   |
+|8  |  Haas, Jannik  |   0.44   |
 
 
 
