@@ -6,7 +6,7 @@
 * Project Proposal Due
   * Thursday Mar 25, 2021 (23:59)
   * *About 2 pages*
-  * Submit it to Canvas Assignment -> Final Project
+  * Submit it to Canvas Discussion Board
 * Project Progress Due
   * Thursday Apr 22, 2020 (23:59)
   * *About 5 pages*
