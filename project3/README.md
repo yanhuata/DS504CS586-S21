@@ -145,7 +145,7 @@ Please compress all the below files into a zipped file and submit the zip file (
 
 #### Code (20%) 
 
-You can get full credits if the scripts can run successfully (i.e., TA will test your code with a small data set to see if images can be generated), otherwise you may loss some points based on your error. 
+You can get full credits if the scripts can run successfully (i.e., TA will test your code with a small data set to see if images can be generated), otherwise you may loss some points based on your error. Similar to project 2, you should submit a evaluation.py file.
 
 #### Model (10%)
 
