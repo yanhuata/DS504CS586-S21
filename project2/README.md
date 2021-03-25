@@ -69,6 +69,10 @@ In this project, you will be asked to finish a sequence classification task usin
         c. Hyperparameter (learning rate, dropout, activation) (5)
     4. Conclusion (5)
 
+  * Bonus (5):
+   
+     5 bonus points for the top 3 on the leader board.
+
 ## Project Guidelines
 
 #### Dataset Description
