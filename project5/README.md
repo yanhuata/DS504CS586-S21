@@ -10,7 +10,7 @@
 * Project Progress Due
   * Thursday Apr 22, 2020 (23:59)
   * *About 5 pages*
-  * Submit it to Canvas Assignment -> Final Project
+  * Submit it to Canvas Discussion Board
 * Final Project Due
   * Tuesday May 04, 2020 (23:59)
   * *About 10 pages.* Please use the [template](https://github.com/yanhuata/DS504CS586-S20/blob/master/project5/acm_submission_template.docx).
