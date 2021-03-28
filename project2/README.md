@@ -13,14 +13,17 @@ In this project, you will be asked to finish a sequence classification task usin
 | rank | Name | Accuracy |
 |---|---|---|
 |**1**    | DiCicco, Mason  | 1.00 |
-|**2**  |  Gilmore, Brent |   0.80   |
-|**3**    | Garcia Fernandez, Oscar A  |  0.76  |
-|**3**   | Jingyan Wang |  0.76   |
-|5  | Liang Zhang |  0.72   |
-|5 | Tang, Bryson | 0.72|
-|7  |  Jindal, Amisha  |   0.68  |
-|8 | Ammartayakun, Aukkawut| 0.64|
-|8 | Lin, Ziwei | 0.64|
+|**2**  | Zhao, Geng | 0.88|
+|**3**  |  Gilmore, Brent |   0.80   |
+|4   | Garcia Fernandez, Oscar A  |  0.76  |
+|4   | Jingyan Wang |  0.76   |
+|6  | Liang Zhang |  0.72   |
+|6 | Tang, Bryson | 0.72|
+|8  |  Jindal, Amisha  |   0.68  |
+|9 | Ammartayakun, Aukkawut| 0.64|
+|9 | Lin, Ziwei | 0.64|
+|9 | Schuliger, Ashley |0.64 |
+|12 |  Han, Hongwen|0.60 | 
 
 
 
