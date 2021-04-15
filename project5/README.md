@@ -22,6 +22,40 @@
 #### Total Points
 * 100 (One Hundred)
 
+# Final Poster Session
+Final Poster Session will be held in Zoom breakout rooms. Each breakout room will have **3** teams, when one team is presenting, other teams are assigned as audients/judges. Also, the poster session will have invited guests (students and faculty from not
+only WPI).
+## Zoom Link
+
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ***https://wpi.zoom.us/my/ds504***
+
+
+## Session Schedule
+**Date** : May 6, 2020
+| Time | Breakroom 1 | Breakroom 2 |
+|---|---|---|
+|6:00pm - 6:35pm|Team1|Team4|
+|6:40pm - 7:15pm|Team2|Team5|
+|7:20pm - 7:55pm|Team3|Team6|
+
+**8pm-8:50pm Free discussion in the main meeting room; leave any time**
+
+## Details
+#### After joining the main session, to start: 
+
+1. Change your name as follows 
+   - Guests: Guest-School-Name, e.g., Guest-WPI-John
+   - Class students: Team-ID-Name, e.g., Team-1-John
+   - TAs: TA-Name
+
+2. Send a message to ***TA-Guojun*** to request to join a poster breakout room.
+
+#### To switch to a new breakout room:
+
+1. Leave a breakout room to the main session, 
+2. Send a request to ***TA-Guojun*** in the main session
+
+***Feedback here: https://forms.gle/ess1PWXTEQwkAVp66***
 
 
 # Project Ideas
@@ -41,7 +75,12 @@
 
 | Team |  Name |
 |---|---|
-
+|Team 1| CNN based Fish Classifier |
+|Team 2| Classifying and Localizing Metastatic Tumor Cells Using Deep Neural Networks |
+|Team 3|  Indoor Location & Navigation |
+|Team 4|  Hate Detection in Memes |
+|Team 5| Creating Historical Paintings with GANs|
+|Team 6|Comparison of Prediction Methods on Sequential Data|
 
 
 
