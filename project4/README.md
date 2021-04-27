@@ -12,9 +12,9 @@ In project 2, you were given a bunch of drivers and their trajectories to build 
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|**1**   | Jindal, Amisha  |  0.75 |
-|**2**   |   | |
-|**3**|  | |
+|**1**   | Jindal, Amisha  |  1.00 |
+|**2**   |  Wang, Jingyan | 0.85 |
+|**3**| Haas, Jannik | 0.81|
 |4| | |
 
 
