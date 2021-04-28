@@ -13,9 +13,11 @@ In project 2, you were given a bunch of drivers and their trajectories to build 
 | rank | Name | Accuracy |
 |---|---|---|
 |**1**   | Jindal, Amisha  |  1.00 |
-|**2**   |  Wang, Jingyan | 0.85 |
-|**3**| Haas, Jannik | 0.81|
-|4| | |
+|**2**   |  Hershey, Quincy| 0.93 |
+|**3**   |  Wang, Jingyan | 0.85 |
+|4| Haas, Jannik | 0.81|
+|5|Gilmore, Brent|0.80|
+|6|Oscar A. Garcia | 0.65|
 
 
 
