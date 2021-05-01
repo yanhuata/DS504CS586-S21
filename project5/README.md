@@ -27,7 +27,8 @@ Final Poster Session will be held in Zoom breakout rooms. Each breakout room wil
 only WPI).
 ## Zoom Link
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ***https://wpi.zoom.us/my/ds504***
+For DS504/CS586 students, please use the same zoom link as our zoom lectures. 
+For visitors, please use the Zoom link in the invitation email you received.
 
 
 ## Session Schedule
@@ -73,7 +74,7 @@ only WPI).
 
 ## Project Proposals
 
-| Team |  Name |
+| Team |  Project Title |
 |---|---|
 |Team 1| CNN based Fish Classifier |
 |Team 2| Classifying and Localizing Metastatic Tumor Cells Using Deep Neural Networks |
