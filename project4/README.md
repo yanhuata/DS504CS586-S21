@@ -18,13 +18,13 @@ In project 2, you were given a bunch of drivers and their trajectories to build 
 |4  |  Wang, Jingyan | 0.85 |
 |5|Hong, Hanwen| 0.85|
 |6|Ashley Schuliger|0.81|
-|7| Haas, Jannik | 0.81|
-|8|Zhao, Geng|0.81|
+|6| Haas, Jannik | 0.81|
+|6|Zhao, Geng|0.81|
 |9|Gilmore, Brent|0.80|
 |10| Ammartayakun, Aukkawut| 0.73|
-|11| Lin, Ziwei|0.73|
+|10| Lin, Ziwei|0.73|
 |12| Carlson, Edward| 0.69|
-|13| Lin, Yufei|0.69|
+|12| Lin, Yufei|0.69|
 |14| Bryson Tang|0.68|
 |15|Zhang, Liang|0.67|
 |16| Sukamanchi,Vamsi Bhargav|0.66|
